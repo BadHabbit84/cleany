@@ -12,9 +12,11 @@ dist-product
 
 npm-debug.log
 
+composer.lock
+
 /vendor/
 
-/css/*
+css
 
 .DS_Store
 

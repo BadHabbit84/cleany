@@ -24,6 +24,8 @@ $understrap_includes = array(
 	'/woocommerce.php',                     // Load WooCommerce functions.
 	'/editor.php',                          // Load Editor functions.
 	'/deprecated.php',                      // Load deprecated functions.
+	'/acf-blocks.php', 						// Custom ACF Blocks
+	'/controller.php',						// Controller for quoting process
 );
 
 foreach ( $understrap_includes as $file ) {
